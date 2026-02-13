@@ -3,8 +3,8 @@
 ## Student Information
 Name: Ritik Sharma  
 Course: Web Programming with Python & JavaScript Lab  
-Semester: II  
-Experiment: 2  
+Semester: IV 
+Assignment: 2  
 
 ---
 
