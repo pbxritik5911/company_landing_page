@@ -1,0 +1,49 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    background: #1e90ff;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+section {
+    padding: 30px;
+    margin: 20px;
+    border: 1px solid #ccc;
+}
+
+.service-card {
+    background: #f2f2f2;
+    padding: 15px;
+    margin: 10px 0;
+}
+
+.testimonial {
+    background: #eee;
+    padding: 15px;
+    margin: 10px 0;
+}
+
+#contact input, textarea {
+    width: 250px;
+    padding: 5px;
+}
+
+button {
+    padding: 8px 15px;
+    background: #1e90ff;
+    color: white;
+    border: none;
+}
+
+footer {
+    text-align: center;
+    background: black;
+    color: white;
+    padding: 10px;
+}
